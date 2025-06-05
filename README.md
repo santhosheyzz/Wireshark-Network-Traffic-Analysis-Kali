@@ -23,6 +23,9 @@ To capture live network traffic, analyze common protocols, and understand how da
   ```
 
 ---
+![img alt](https://github.com/santhosheyzz/Wireshark-Network-Traffic-Analysis-Kali/blob/4b690ce31ad584c9aa5ff1bbb82cfd6da867ba98/Images/Image%201.png)
+
+![img alt](https://github.com/santhosheyzz/Wireshark-Network-Traffic-Analysis-Kali/blob/4b690ce31ad584c9aa5ff1bbb82cfd6da867ba98/Images/Image%202.png)
 
 ---
 
