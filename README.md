@@ -10,7 +10,7 @@
 **Objective**:  
 To capture live network traffic, analyze common protocols, and understand how data flows across a network. The captured `.pcap` file is analyzed using protocol filters, and findings are documented here.
 ---
-
+![img alt](https://github.com/santhosheyzz/Wireshark-Network-Traffic-Analysis-Kali/blob/8ae6139e48cb62e9e1c125ac0751b9fcad10c878/Images/Task.png)
 ---
 
 ## 🧪 Traffic Generated
